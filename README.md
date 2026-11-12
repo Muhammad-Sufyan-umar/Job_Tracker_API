@@ -1,9 +1,8 @@
 # Job Application Tracker API
 
-This is a professional Job application tracker Api built in Python using Flask.
+This is a professional Job application tracker Api built in Python with Flask.
 
-This project allow user to apply for job and track his application easily through simple dictionaries
-format and it will show output in Json format. 
+This project allow user to apply for job and track his application easily through simple dictionaries format and it will show output in Json format. 
 
 ## Features
 
